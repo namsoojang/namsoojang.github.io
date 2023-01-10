@@ -183,6 +183,8 @@
 .fa-glass:before {
   content: "\f000";
 }
+
+
 .fa-music:before {
   content: "\f001";
 }
@@ -2083,4 +2085,8 @@
 }
 .fa-percent:before {
   content: "\f295";
+}
+
+.fa-person-chalkboard:before {
+  content : "e53d"
 }
